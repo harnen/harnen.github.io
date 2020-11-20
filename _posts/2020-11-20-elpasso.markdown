@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "EL Passo accepted for PETS"
+date:   2020-11-20 18:02:10 +0100
+categories: jekyll update
+---
+
+Our paper [EL Passo](https://arxiv.org/abs/2002.10289) was accepted to appear at [POPETS](https://petsymposium.org/) conference. 
