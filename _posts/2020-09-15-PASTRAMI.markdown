@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "PASTRAMI accepted for Middleware"
+date:   2020-09-15 18:02:10 +0100
+categories: jekyll update
+---
+
+Our paper [PASTRAMI](https://arxiv.org/abs/2004.06403) was accepted to appear at [POPETS](https://2020.middleware-conference.org/) conference. 
