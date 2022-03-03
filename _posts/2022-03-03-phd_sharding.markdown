@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Fully funded PhD position in next generation blockchains"
-date:   2022-03-03 18:02:10 +0100
+date:   2022-03-03 08:00:00 +0100
 categories: jekyll update
 ---
 
