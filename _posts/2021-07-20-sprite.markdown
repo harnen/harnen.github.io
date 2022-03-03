@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "SPRITE+ Advisory Board"
+date:   2021-07-20 18:02:10 +0100
+categories: jekyll update
+---
+
+I've joined [SPRITE+ advisory board](https://twitter.com/SPRITEPlus/status/1406892513412235286) as an Early Career Researcher. SPRITE+ is a network for Security, Privacy, Identity & Trust lead by Universities of Manchester, Lancaster, Queen's Belfast, Southampton and Imperial College London. 
