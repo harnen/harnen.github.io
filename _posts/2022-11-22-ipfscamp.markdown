@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "New talk on IPFS CID Eclipse attacks"
+date:   2022-11-22 09:02:10 +0100
+categories: jekyll update
+---
+
+We have presented our work on [IPFS](https://ipfs.tech/) CID Eclipse attacks during [IPFS Camp'22](https://2022.ipfs.camp/). You can watch the video [here](https://youtu.be/CtEq7wu7obk). 
