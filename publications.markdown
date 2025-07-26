@@ -6,7 +6,7 @@ permalink: /publications/
 The full list of publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=rg5x6CAAAAAJ). 
 
 ## Conferences
-* **Bootstrapping Social Networks: Lessons from Bluesky Starter Packs** - AAAI ICWSM'25
+* [Bootstrapping Social Networks: Lessons from Bluesky Starter Packs](publications/bluesky2.pdf) - AAAI ICWSM'25
 * **Looking at the blue skies of bluesky** - ACM IMC'24
 * **A Blockchain-enabled and transparent evaluation of ml models in the decentralised marketplace** - IEEE Blockchain'24
 * **Disc-ng: Robust service discovery in the ethereum global network** - Euro S&P'24
