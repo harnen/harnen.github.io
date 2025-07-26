@@ -1,9 +1,0 @@
----
-layout: post
-title:  "Turing Network Development Award on NFTs and blockchain"
-date:   2022-02-02 18:02:10 +0100
-categories: jekyll update
----
-In collaboration with [CitAI](https://twitter.com/Cit_AI1/status/1488943573743636488), we have been granted a Turing Institute [Turing Network Development Award](https://turing.ac.uk/news/24-uk-universities-receive-first-ever-turing-network-development-awards), for collaborative research into secure, ecological & inclusive NFT & blockchain tech for the creative industries. 
-
-
