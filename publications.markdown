@@ -41,7 +41,8 @@ The full list of publications can be found on [Google Scholar](https://scholar.g
 
 
 ## 2018
-* **RICE: Remote Method Invocation in ICN** - ACM Information-Centric Networks ICN’18 - Best Paper Award
+* **RICE: Remote Method Invocation in ICN** - ACM Information-Centric Networks ICN’18
+    * Best Paper Award
 * **Open Security Issues for Edge Named Function Environments** - IEEE Communications Magazine 19/11/2018
 
 ## 2017
