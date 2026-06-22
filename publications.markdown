@@ -5,13 +5,18 @@ permalink: /publications/
 ---
 The full list of publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=rg5x6CAAAAAJ). 
 
+## 2026
+* Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns - **ACM WWW'26**
+* Open or Blocked Skies? Community Moderation Practices in Bluesky - **ACM WWW'26**
+
 ## 2025
 * [Bootstrapping Social Networks: Lessons from Bluesky Starter Packs](publications/bluesky2.pdf) - **AAAI ICWSM'25**
     * Covered by: [Science Magazine](https://scienmag.com/new-study-reveals-how-starter-packs-fueled-blueskys-rapid-growth/), [TexhXplore](https://techxplore.com/news/2025-06-curated-starter-fueled-rapid-user.html), [Life Technology](https://www.lifetechnology.com/blogs/life-technology-technology-news/study-finds-curated-starter-packs-fueled-rapid-user-growth-on-bluesky), [MSN](https://www.msn.com/en-us/news/technology/study-finds-curated-starter-packs-fueled-rapid-user-growth-on-bluesky/ar-AA1H92fe), [HelloFuture](https://hellofuture.orange.com/en/bluesky-decentralized-design-is-the-key-to-the-micro-blogging-platforms-success/), [DailyBlogWriting](https://www.dailyblogwriting.com/archives/17319), [TU Darmstadt](https://www.tu-darmstadt.de/universitaet/aktuelles_meldungen/einzelansicht_491712.en.jsp), [Eurekalert]( https://www.eurekalert.org/news-releases/1088204), [Fediverse News](https://fediversereport.com/bluesky-report-112/), [Nature](https://www.nature.com/articles/d41586-025-00177-1)
-* [PANDAS: Peer-to-peer, Adaptive Networking for Data Availability Sampling within Ethereum Consensus Timebounds](publications/pandas.pdf) - **Tech Report**
+* [PANDAS: Peer-to-peer, Adaptive Networking for Data Availability Sampling within Ethereum Consensus Timebounds](publications/pandas.pdf) - **ACM/IFIP Middleware'25**
+* Beyond Single-Tokenomics: How Farcaster's Pluralistic Incentives Reshape Social Networking - **ACM SIGMETRICS'25**
 
 ## 2024
-* [Guardians of the Galaxy: Content Moderation in the InterPlanetary File System](publications/ipfs_decentralization.pdf) - **Usenix Security'24**
+* [Guardians of the Galaxy: Content Moderation in the InterPlanetary File System](publications/guardians.pdf) - **Usenix Security'24**
 * [Content censorship in the interplanetary file system](publications/ipfs_censorship.pdf) - **NDSS'24**
 * [Looking at the blue skies of bluesky](publications/bluesky1.pdf) - **ACM IMC'24**
 * [Disc-ng: Robust service discovery in the ethereum global network](publications/discng.pdf) - **Euro S&P'24**
