@@ -3,7 +3,7 @@ layout: page
 title: Publications
 permalink: /publications/
 ---
-The full list of publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=rg5x6CAAAAAJ). 
+The full list of publications can be found on [Google Scholar](https://scholar.google.co.uk/citations?user=rg5x6CAAAAAJ) (1796 citations, h-index 20).
 
 ## 2026
 * Netting Phish in the IPFS Ocean: Real-Time Monitoring and Characterization of Decentralized Phishing Campaigns - **ACM WWW'26**
